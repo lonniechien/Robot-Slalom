@@ -1,0 +1,6 @@
+left yellow yellow
+right green yellow
+left green green
+tape yellow yellow
+right green green
+left yellow green

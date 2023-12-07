@@ -4,4 +4,4 @@ This program uses the Robot Operating System to direct a Turtlebot to through an
 
 See the project writeup for more details about how it works.
 
-See the video of it in action: https://vimeo.com/832515641?share=copy
+See the video of it in action: https://youtu.be/HQrFy41-GYM?si=uWYMvjqj-yS-jONH
